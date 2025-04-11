@@ -34,10 +34,10 @@
 ---
 
 ### 📫 Liên hệ với tôi:
-- 📧 Email: `your.email@example.com`
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: ducle090891999@gmail.com
+- 🌐 Portfolio: https://www.facebook.com/minh.uc.867215
+- 💼 LinkedIn: https://www.linkedin.com/in/%C4%91%E1%BB%A9c-l%C3%AA-8a5217337/
+- 🐱 GitHub: https://github.com/MINHDUC0908/
 
 ---
 
