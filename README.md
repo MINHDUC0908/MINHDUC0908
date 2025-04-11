@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Tên của bạn]</h1>
+<h1 align="center">Hi 👋, I'm Le Van Minh Duc</h1>
 <h3 align="center">Web Developer | PHP | Laravel | Node.js | React | Tailwind</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 Giới thiệu ngắn
-- 💻 Tôi là một lập trình viên backend/frontend đam mê công nghệ web.
+- 💻 Tôi là một lập trình viên backend đam mê công nghệ web.
 - 🔥 Có kinh nghiệm làm việc với **Laravel**, **Express.js**, **React** và **Tailwind CSS**
 - 📚 Luôn học hỏi thêm về kiến trúc hệ thống, RESTful API, và hiệu năng.
 
@@ -28,7 +28,6 @@
 
 #### 🛠 Khác:
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 - ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
 
@@ -45,9 +44,9 @@
 ### 📸 Một vài project nổi bật:
 | Tên Project | Mô tả | Công Nghệ |
 |-------------|--------|------------|
+| 🛒 E-Commerce Store |Website bán hàng điện tử, hỗ trợ giỏ hàng, tìm kiếm và thanh toán | Laravel, React.js Tailwind CSS, MySQL |
 | 🔐 Auth API | Hệ thống đăng nhập Laravel + JWT | Laravel, MySQL |
-| 📦 Node Shop | Backend shop đơn giản | Node.js, Express, MongoDB |
-| 🧾 Invoice App | App React quản lý hóa đơn | React, Tailwind CSS |
+| ✈️ Tour Booking | Website đặt tour du lịch với hệ thống đăng ký, thanh toán và quản lý tour |Node.js, Express.js, React, MySQL, Tailwind CSS |
 
 ---
 
