@@ -16,7 +16,33 @@
 
 ### 🚀 Công nghệ sử dụng
 
-<table> <tr> <td><b>💼 Backend</b></td> <td> <img src="https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" /> </td> </tr> <tr> <td><b>🎨 Frontend</b></td> <td> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" /> </td> </tr> <tr> <td><b>🛠 Công cụ khác</b></td> <td> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" /> </td> </tr> </table>
+<table>
+  <tr>
+    <td><b>💼 Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel" style="margin-right: 8px;" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" style="margin-right: 8px;" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" style="margin-right: 8px;" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" style="margin-right: 8px;" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠 Công cụ khác</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" style="margin-right: 8px;" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" style="margin-right: 8px;" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
