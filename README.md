@@ -16,20 +16,7 @@
 
 ### 🚀 Công nghệ sử dụng
 
-#### 💼 Backend:
-- ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-- ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-- ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-
-#### 🎨 Frontend:
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-#### 🛠 Khác:
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-- ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
+<table> <tr> <td><b>💼 Backend</b></td> <td> <img src="https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" /> </td> </tr> <tr> <td><b>🎨 Frontend</b></td> <td> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" /> </td> </tr> <tr> <td><b>🛠 Công cụ khác</b></td> <td> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" /> </td> </tr> </table>
 
 ---
 
