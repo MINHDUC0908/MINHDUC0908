@@ -62,6 +62,10 @@
 | ✈️ Tour Booking | Website đặt tour du lịch với hệ thống đăng ký, thanh toán và quản lý tour |Node.js, Express.js, React, MySQL, Tailwind CSS |
 | 🛒 E-Commerce Store |API bán hàng điện tử, hỗ trợ giỏ hàng, tìm kiếm và thanh toán | Laravel, Kotlin, MySQL |
 
+
+## 📘 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/minhduc09082005?theme=dark&ext=contest)](https://leetcode.com/minhduc09082005/)
 ---
 
 ### ⚡ Fun fact:
