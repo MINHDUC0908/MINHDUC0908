@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Giới thiệu ngắn
 - 💻 Tôi là một lập trình viên backend đam mê công nghệ web.
-- 🔥 Có kinh nghiệm làm việc với **Laravel**, **Express.js**, **React**, **Tailwind CSS**, ** MYSQL ** và **RESTful API
+- 🔥 Có kinh nghiệm làm việc với **Laravel**, **Express.js**, **React**, **Tailwind CSS**, **MYSQL** và **RESTful API**
 - 📚 Luôn học hỏi thêm về kiến trúc hệ thống, và hiệu năng.
 
 ---
